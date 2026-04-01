@@ -1,5 +1,5 @@
 ## Hi there 👋
-# 👋 Hola, soy Alberto Santos
+# 👋 Hola, soy Carlos Santos
 
 🚀 Aspiring AI Engineer | Builder | Problem Solver  
 📍 Sevilla, España  
