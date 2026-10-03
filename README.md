@@ -1,71 +1,94 @@
-## Hi there 👋
-# 👋 Hola, soy Carlos Santos
+<div align="center">
 
-🚀 Aspiring AI Engineer | Builder | Problem Solver  
-📍 Sevilla, España  
+# Hi, I'm Carlos Santos 👋
 
----
+### Full Stack Developer · AI Engineering · Product Builder
 
-## 🧠 Sobre mí
+I build practical web products that combine reliable software, clear user experiences, and artificial intelligence.
 
-Soy profesional en el sector de reformas y construcción, con experiencia en ejecución técnica, gestión de proyectos y resolución de problemas en campo.
+[![GitHub](https://img.shields.io/badge/GitHub-Krisor1986-181717?style=for-the-badge&logo=github)](https://github.com/Krisor1986)
+[![Email](https://img.shields.io/badge/Email-hello%40stonetech.tech-6C63FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@stonetech.tech)
 
-Actualmente estoy haciendo la transición hacia el mundo tecnológico, enfocándome en **Inteligencia Artificial y automatización**, con el objetivo de crear soluciones digitales que generen ingresos y escalabilidad.
+</div>
 
----
+## About me
 
-## 🛠️ Skills
+- 📍 Based in Seville, Spain
+- 💻 Full Stack Developer focused on business applications and AI-powered products
+- 🤖 Building AI agents, retrieval-augmented generation workflows, and human-in-the-loop systems
+- 🧭 Experienced in turning real operational needs into usable digital tools
+- 🏗️ Former construction and renovation professional with hands-on project management experience
 
-- Python (en aprendizaje)
-- Git & GitHub
-- Java (curso completado en 2022)
-- JavaScript (conocimientos básicos)
-- UI/UX Design
-- Automatización
-- Resolución de problemas
+## Tech stack
 
----
+### Frontend
 
-## 🤖 Experiencia en IA
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-- Creación de agentes utilizando **OpenClaw**
-- Exploración de automatizaciones con IA
-- Integración de herramientas no-code + código
+Responsive interfaces · Dark/light themes · Internationalization · REST API integration
 
-Actualmente iniciando un nuevo proyecto enfocado en AI Engineering.
+### Backend and data
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-## 📚 Actualmente aprendiendo
+REST APIs · SQLAlchemy · Alembic migrations · JWT authentication · Role-based access
 
-- AI Engineering
-- Desarrollo de agentes inteligentes
-- Integración de modelos de IA
-- Automatización avanzada
+### AI engineering
 
----
+LLM API integration · AI agents · RAG · Vector embeddings · Knowledge retrieval · Conversation memory · Human review workflows
 
-## 🚧 Proyectos (próximamente)
+### Delivery and quality
 
-- Agentes de automatización
-- Herramientas con IA
-- Aplicaciones simples con enfoque práctico
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Render](https://img.shields.io/badge/Render-000000?style=flat-square&logo=render&logoColor=white)
 
----
+GitHub collaboration · CI/CD · Automated backend and frontend tests · ESLint · Gunicorn · Production deployment
 
-## 📫 Contacto
+## Featured project
 
-- 📧 Email: hola@ateliercarpinteria.es
-- 📧 Email: hello@stonetech.tech
+### [ClientFlow](https://github.com/4GeeksAcademy/ClientFlow_FinalProject)
 
----
+An AI-powered, multilingual CRM and operations platform for service businesses. It centralizes the complete customer workflow, from the first lead to scheduling, job delivery, and ongoing support.
 
-## ⚡ Objetivo
+**Highlights**
 
-Convertirme en AI Engineer y construir soluciones digitales que generen libertad financiera y geográfica.
+- Lead and customer management
+- Jobs, stages, appointments, and service scheduling
+- Omnichannel conversation inbox
+- Configurable AI customer-service agents
+- Document-based knowledge system using RAG and embeddings
+- Human approval workflow for AI-generated responses
+- English, Spanish, and Portuguese interfaces
+- Secure authentication, permissions, subscriptions, and password recovery
+- PostgreSQL migrations, automated tests, GitHub Actions, and Render deployment
 
----
+**Role:** Full Stack Developer and Technical Lead
 
-## 💡 Filosofía
+**Core technologies:** React, JavaScript, Python, Flask, SQLAlchemy, PostgreSQL, JWT, LLM APIs, and GitHub Actions
 
-> “No se trata solo de aprender tecnología, sino de usarla para crear oportunidades reales.”
+[View repository](https://github.com/4GeeksAcademy/ClientFlow_FinalProject) · [Open live application](https://clientflow-staging.onrender.com)
+
+## Other projects
+
+- [Family Static API](https://github.com/Krisor1986/family-static-api) — Python API project
+- [React To-do List](https://github.com/Krisor1986/react-todo-list) — React state and component practice
+- [Chatbot with AI](https://github.com/Krisor1986/chatbot-with-AI) — JavaScript chatbot experiment
+- [Contact List](https://github.com/Krisor1986/contact-list) — React contact-management interface
+
+## Current focus
+
+- Building production-ready AI features for real businesses
+- Improving full-stack architecture, testing, security, and deployment
+- Designing automation that makes customer operations faster and easier to manage
+
+## Contact
+
+📫 [hello@stonetech.tech](mailto:hello@stonetech.tech)
