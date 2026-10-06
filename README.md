@@ -7,7 +7,7 @@
 I build practical web products that combine reliable software, clear user experiences, and artificial intelligence.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Krisor1986-181717?style=for-the-badge&logo=github)](https://github.com/Krisor1986)
-[![Email](https://img.shields.io/badge/Email-hello%40stonetech.tech-6C63FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlos.engineer@proton.me)
+[![Email](https://img.shields.io/badge/Email-carlos.aiengineer%40proton.me-6C63FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlos.aiengineer@proton.me)
 
 </div>
 
